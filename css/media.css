@@ -1,0 +1,69 @@
+@media all and (max-width:1189px){
+	.site_nav nav,.share_w {
+		width:990px;
+	}
+	.search_wrap {
+		width: 590px;
+	}
+	.search_button {
+		width: 584px;
+	}
+	.search_panel .tb,.search_panel .tm {
+		width: 540px;
+		height: 18px;
+		overflow: hidden;
+	}
+	.sa_rect_r  {
+		width: 790px;
+	}
+	.seller_ad_info  {
+		width: 490px;
+		overflow: hidden;
+	}
+	input.fl._input {
+		width: 478px;
+	}
+	.rect {
+		width:990px;
+	}
+	.sa_rect_r nav {
+		width: 790px;
+	}
+	.sa_rect_r nav li {
+		margin-left: 5px;
+	}
+	.seller_ad p {
+		display: none;
+	}
+
+	.hot_wrapper .hot_item2 ul {
+		width: 128px;
+	}
+	.hot_wrapper .hot_item3 ul {
+		width: 114px;
+		margin-right: 0;
+	}
+	.hot_wrapper .hot_item3 li {
+		line-height: 30px;
+	}
+	.hot_slide_item {
+		width: 266px;
+	}
+	.tb_belt_slide ul {
+		width: 150px;
+	}
+	.tb_belt_slide li {
+		margin-right: 6px;
+	}
+	.tb_belt_slide {
+		padding:10px;
+	}
+	
+	.site_nav nav ._block .site_map_info {
+		width: 972px;
+	}
+	.site_nav nav ._block .splendid {
+    width: 23% !important;
+	}
+}
+
